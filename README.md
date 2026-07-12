@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AssetFlow - Enterprise Asset & Resource Management System
 
 **AssetFlow** is a modular ERP backend designed to help organizations simplify, digitize, and automate how they track physical assets (equipment, laptops, vehicles) and manage bookings for shared spaces (rooms, vehicles) or equipment.
@@ -124,6 +123,3 @@ To run the automated integration test suite:
 ```powershell
 pytest tests/
 ```
-=======
-# Oddo-hackathon
->>>>>>> db4667d603b6c1e4b6075598b2cf132435886046
